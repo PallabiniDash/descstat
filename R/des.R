@@ -1,4 +1,4 @@
-#'creates histogram,boxplot,numeric summary
+#'creates histogram, boxplot,numeric summary
 #' @export
 #' @param x numeric variable
 
